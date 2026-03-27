@@ -6,7 +6,7 @@ It provides insights into screen time, app usage, battery consumption, and user 
 
 ---
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 - Power BI Desktop
 - Power Query
 - DAX
