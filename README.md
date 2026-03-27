@@ -44,7 +44,10 @@ It provides insights into screen time, app usage, battery consumption, and user 
 ---
 
 ##  Dashboard Preview
-![Dashboard](dashboard_preview.png)
+![User Insights](User.png)
+![Behaviour Insights](Behaviour.png)
+![Device Insights](Device.png)
+![Age & Gender Insights](Age.png)
 
 ---
 
